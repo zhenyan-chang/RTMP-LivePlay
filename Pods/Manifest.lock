@@ -1,0 +1,36 @@
+PODS:
+  - BarrageRenderer (1.8.1)
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - IQKeyboardManager (3.3.7)
+  - LFLiveKit (1.6.7):
+    - CocoaAsyncSocket (~> 7.4.1)
+    - LMGPUImage (~> 0.1.9)
+    - pili-librtmp (~> 1.0.2)
+  - LMGPUImage (0.1.9)
+  - Masonry (1.0.1)
+  - pili-librtmp (1.0.4)
+
+DEPENDENCIES:
+  - BarrageRenderer
+  - IQKeyboardManager
+  - LFLiveKit
+  - Masonry
+
+SPEC CHECKSUMS:
+  BarrageRenderer: a5dc2c9d38028be819b64ed2b7dfa240490b378a
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  LFLiveKit: cf9e4ab877af1bf75a4acbe00aa2c73edee22b60
+  LMGPUImage: 8e2e5d0f7065953eb7812de842db4c87d59abf09
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  pili-librtmp: bc768bc3971edad732fd5e66f0ee991fa1a0a257
+
+PODFILE CHECKSUM: ccc167c654eb2b5d32c1c8b6441076d0ebfe1bf7
+
+COCOAPODS: 1.0.1
